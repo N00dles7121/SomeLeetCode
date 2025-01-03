@@ -5,14 +5,14 @@ using System.Threading.Tasks;
 
 namespace LeetCode
 {
-    public class RemoveDuplicates
+    public static class RemoveDuplicates
     {
         // Given an integer array nums sorted in non-decreasing order, 
         // remove the duplicates in-place such that each unique element appears only once. 
         // The relative order of the elements should be kept the same. 
         // Then return the number of unique elements in nums.
 
-        public int Solution(int[] nums)
+        public static int Solution(int[] nums)
         {
             // Will store index or duplicate element in the array.
             int k = 1;

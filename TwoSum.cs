@@ -10,9 +10,9 @@ namespace LeetCode
     // You may assume that each input would have exactly one solution, 
     // and you may not use the same element twice.
 
-    public class TwoSum
+    public static class TwoSum
     {
-        public int[] Solution(int[] nums, int target)
+        public static int[] Solution(int[] nums, int target)
         {
             Dictionary<int, int> dict = new Dictionary<int, int>();
             int[] solution = new int[2];

@@ -5,12 +5,12 @@ using System.Threading.Tasks;
 
 namespace LeetCode
 {
-    public class LenLastWord
+    public static class LenLastWord
     {
         // Given a string s consisting of words and spaces,
         // return the length of the last word in the string.
 
-        public int Solution(string str)
+        public static int Solution(string str)
         {
             // Will split string into string array on every space. This will give us new string array
             // which will store all words from str.
