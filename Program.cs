@@ -23,3 +23,5 @@ TwoSum.Solution([1, 1, 1, 2, 2, 3, 4, 5], 6);
 CountWordsWPrefix.Solution(["pay", "attention", "practice", "attend"], "at");
 
 LemonadeChange.Solution([5, 5, 5, 10, 20, 10, 5, 5, 10, 20, 20]);
+
+ConvertTo2DArray.Solution([1, 2, 3, 4], 2, 2);
