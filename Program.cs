@@ -25,3 +25,5 @@ CountWordsWPrefix.Solution(["pay", "attention", "practice", "attend"], "at");
 LemonadeChange.Solution([5, 5, 5, 10, 20, 10, 5, 5, 10, 20, 20]);
 
 ConvertTo2DArray.Solution([1, 2, 3, 4], 2, 2);
+
+MoveZeroes.Solution([1, 2, 0, 0, 3, 0, 0, 6, 0, 0, 10]);
